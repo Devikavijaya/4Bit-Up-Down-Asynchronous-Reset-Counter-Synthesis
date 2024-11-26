@@ -67,13 +67,17 @@ used.
 ![PD_EXP_4_1](https://github.com/user-attachments/assets/74c2d51a-21db-4eba-9cdb-5708d2a2de3e)
 
 #### Area report:
-![PD_EXP_4_2](https://github.com/user-attachments/assets/6fc9dd2a-9201-4cff-9953-89358ac47cb4)
+
+![WhatsApp Image 2024-11-26 at 07 37 40_dffa8da9](https://github.com/user-attachments/assets/8cc0743e-74ff-425f-ba5c-bc8bf9d5e119)
 
 #### Power Report:
-![PD_EXP_4_3](https://github.com/user-attachments/assets/4609286b-80df-4ff3-9a4e-c720fb5d0f1f)
+
+![WhatsApp Image 2024-11-26 at 07 37 51_a99d2b27](https://github.com/user-attachments/assets/af2cb39e-43f6-4eed-a597-1b8ca46682c0)
+
 
 #### Timing Report: 
-![PD_EXP_4_4](https://github.com/user-attachments/assets/b7066304-5a27-4ce7-90d0-c4ee57eada23)
+
+![WhatsApp Image 2024-11-26 at 07 38 02_c9ce6be3](https://github.com/user-attachments/assets/81c22cf4-c794-403e-915e-8792be86874c)
 
 #### Result: 
 
